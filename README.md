@@ -1,6 +1,3 @@
-# sersml
-heavy metal ion detection using SERS
+# Machine Learning-based Heavy Metal Ion Detection Using Surface-Enhanced Raman Spectroscopy
 
-The full data set can be found via the link below.
-
-https://www.dropbox.com/sh/1ldy078fr0i29zu/AACFch4UF1W_n1-5LXYkInnpa?dl=0
+Pb(NO3)2 Molecule Detection based on SERS Measurement with Machine Learning Models.
